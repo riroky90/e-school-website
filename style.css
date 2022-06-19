@@ -1,0 +1,72 @@
+.logo{
+    width: 220px;
+}
+header{
+    background-color: #F0FFF0;
+}
+.banner-photo{
+    width: 100%;
+}
+.btn-banner{
+    background-color: #21B573;
+    border: none;
+}
+.card-height{
+    height: 250px;
+    border: none;
+}
+.image-card{
+    width: 100px;
+}
+.image-card2{
+    width: 20px;
+}
+.tst-img{
+    width: 150px;
+}
+.tst-box{
+    width: 800px;
+    height: 300px;
+}
+footer{
+    background-color: #282531;
+    padding: 40px 0px;
+    color: aliceblue;
+    list-style: none;
+}
+.btn-color{
+    background-color: #21B573;
+    border: none;
+    width: 153px;
+    height: 43px;
+    border-radius: 20px;
+    color: #F0FFF0;
+}
+.btn{
+    background-color: #21B573;
+    border: none;
+    width: 104px;
+    height: 43px;
+    border-radius: 20px;
+}
+.bg-body{
+    border: none;
+}
+.box{
+    border: none;
+    background-color: #F0FFF0;
+}
+
+.box:hover .card-body{
+        transition: 0.7s;
+        box-shadow: 0 0 11px rgba(33,33,33,.2);
+        background-color: white;
+}
+.btn-color:hover{
+    transition: 0.5s;
+    background-color: rgb(105, 205, 171);
+    color: #282531;
+}
+ul{
+    list-style: none;
+}
